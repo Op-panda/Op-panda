@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=op-panda" alt="op-panda" /></a> </p>
 
-- 🔭 I’m currently working on **X**
+- 🔭 I’m currently working on **figuring tech stuff**
 
 - 🌱 I’m currently learning **DSA, Javascript, React**
 
