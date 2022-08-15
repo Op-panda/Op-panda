@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Javascript, React**
 
-- 📫 How to reach me **amitpandey@gmail.com**
+- 📫 How to reach me **amitpandey0700@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket more than my engineering**
 
